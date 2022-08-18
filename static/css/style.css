@@ -1,0 +1,12 @@
+.jumbotron {
+    background-image: url("../../images/s_aureus.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Arial", monospace;
+}
+
+body {
+    color: black;
+    background-color: beige
+}
